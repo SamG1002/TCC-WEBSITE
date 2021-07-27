@@ -34,3 +34,8 @@
     font-family: HiRolley-Regular;
     src: url('../fonts/HiRolley-Regular.otf');
 }
+
+@font-face{
+    font-family: NanumPenScript-Regular;
+    src: url('../fonts/NanumPenScript-Regular.ttf');
+}
